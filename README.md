@@ -6,5 +6,5 @@
 
 - 🌱 Currently engaged in **LLM/NLP**
 - 👯 Currently working in **Beijing, China**
-- 📫 How to reach me: personal email **jjgxw@outlook.com** or OpenLLMAI official email **xianyuai@openllmai.top**
-- 😄 You may like [Blog](https://www.zhihu.com/people/hai-tan-shang-chong-hua-47)
+- 📫 How to reach me: OpenLLMAI official email **xianyuai@openllmai.top**
+- 😄 You may like [zhihu Blog](https://www.zhihu.com/people/hai-tan-shang-chong-hua-47) or [notion Blog](https://openllmai.notion.site/)
